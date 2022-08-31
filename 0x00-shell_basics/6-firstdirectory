@@ -1,4 +1,2 @@
 #!/bin/bash
-mdkir
-mkdir/tmp/my_first_directory
-mkdir/tmp/my_first_directory
+mdkir /tmp/my_first_directory
